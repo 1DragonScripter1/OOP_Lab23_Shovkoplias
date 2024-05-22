@@ -1,0 +1,40 @@
+D:\Coding\Visual Studio\VS projects\Lab23\obj\Debug\Lab23.csproj.AssemblyReference.cache
+D:\Coding\Visual Studio\VS projects\Lab23\obj\Debug\Lab23.Properties.Resources.resources
+D:\Coding\Visual Studio\VS projects\Lab23\obj\Debug\Lab23.csproj.GenerateResource.cache
+D:\Coding\Visual Studio\VS projects\Lab23\obj\Debug\Lab23.csproj.CoreCompileInputs.cache
+D:\Coding\Visual Studio\VS projects\Lab23\obj\Debug\Lab23.Form1.resources
+D:\Coding\Visual Studio\VS projects\Lab23\bin\Debug\Lab23.exe.config
+D:\Coding\Visual Studio\VS projects\Lab23\bin\Debug\Lab23.exe
+D:\Coding\Visual Studio\VS projects\Lab23\bin\Debug\Lab23.pdb
+D:\Coding\Visual Studio\VS projects\Lab23\obj\Debug\Lab23.exe
+D:\Coding\Visual Studio\VS projects\Lab23\obj\Debug\Lab23.pdb
+D:\Coding\Visual Studio\VS projects\Lab23 - Copy\obj\Debug\Lab23.csproj.AssemblyReference.cache
+D:\Coding\Visual Studio\VS projects\Lab23 - Copy\obj\Debug\Lab23.Form1.resources
+D:\Coding\Visual Studio\VS projects\Lab23 - Copy\obj\Debug\Lab23.Properties.Resources.resources
+D:\Coding\Visual Studio\VS projects\Lab23 - Copy\obj\Debug\Lab23.csproj.GenerateResource.cache
+D:\Coding\Visual Studio\VS projects\Lab23 - Copy\obj\Debug\Lab23.csproj.CoreCompileInputs.cache
+D:\Coding\Visual Studio\VS projects\Lab23 - Copy\obj\Debug\Lab23.exe
+D:\Coding\Visual Studio\VS projects\Lab23 - Copy\obj\Debug\Lab23.pdb
+D:\Coding\Visual Studio\VS projects\Lab23 - Copy\bin\Debug\Lab23.exe.config
+D:\Coding\Visual Studio\VS projects\Lab23 - Copy\bin\Debug\Lab23.exe
+D:\Coding\Visual Studio\VS projects\Lab23 - Copy\bin\Debug\Lab23.pdb
+D:\Coding\Visual Studio\VS projects\Lab23 Шпетний\bin\Debug\Lab23.exe.config
+D:\Coding\Visual Studio\VS projects\Lab23 Шпетний\bin\Debug\Lab23.exe
+D:\Coding\Visual Studio\VS projects\Lab23 Шпетний\bin\Debug\Lab23.pdb
+D:\Coding\Visual Studio\VS projects\Lab23 Шпетний\obj\Debug\Lab23.csproj.AssemblyReference.cache
+D:\Coding\Visual Studio\VS projects\Lab23 Шпетний\obj\Debug\Lab23.Form1.resources
+D:\Coding\Visual Studio\VS projects\Lab23 Шпетний\obj\Debug\Lab23.Properties.Resources.resources
+D:\Coding\Visual Studio\VS projects\Lab23 Шпетний\obj\Debug\Lab23.csproj.GenerateResource.cache
+D:\Coding\Visual Studio\VS projects\Lab23 Шпетний\obj\Debug\Lab23.csproj.CoreCompileInputs.cache
+D:\Coding\Visual Studio\VS projects\Lab23 Шпетний\obj\Debug\Lab23.exe
+D:\Coding\Visual Studio\VS projects\Lab23 Шпетний\obj\Debug\Lab23.pdb
+D:\University\2 курс\4 семестр\ООП\Не мої\Шовкопляс\Lab23 Шовкопляс\bin\Debug\Lab23.exe.config
+D:\University\2 курс\4 семестр\ООП\Не мої\Шовкопляс\Lab23 Шовкопляс\bin\Debug\Lab23.exe
+D:\University\2 курс\4 семестр\ООП\Не мої\Шовкопляс\Lab23 Шовкопляс\bin\Debug\Lab23.pdb
+D:\University\2 курс\4 семестр\ООП\Не мої\Шовкопляс\Lab23 Шовкопляс\obj\Debug\Lab23.csproj.AssemblyReference.cache
+D:\University\2 курс\4 семестр\ООП\Не мої\Шовкопляс\Lab23 Шовкопляс\obj\Debug\Lab23.Form1.resources
+D:\University\2 курс\4 семестр\ООП\Не мої\Шовкопляс\Lab23 Шовкопляс\obj\Debug\Lab23.Properties.Resources.resources
+D:\University\2 курс\4 семестр\ООП\Не мої\Шовкопляс\Lab23 Шовкопляс\obj\Debug\Lab23.csproj.GenerateResource.cache
+D:\University\2 курс\4 семестр\ООП\Не мої\Шовкопляс\Lab23 Шовкопляс\obj\Debug\Lab23.csproj.CoreCompileInputs.cache
+D:\University\2 курс\4 семестр\ООП\Не мої\Шовкопляс\Lab23 Шовкопляс\obj\Debug\Lab23.exe
+D:\University\2 курс\4 семестр\ООП\Не мої\Шовкопляс\Lab23 Шовкопляс\obj\Debug\Lab23.pdb
